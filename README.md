@@ -37,7 +37,7 @@ Ngày nay gần 80% người dùng truy cập internet qua các thiết bị di 
 
 <p>Khách có nhu cầu thiết kế website hoặc cần tư vấn chuyên sâu vui lòng liên hệ chúng tôi theo:<br/>
   Hotline: 0828 11 26 26<br/>
-  Website: <a href="https://lotusmedia.com.vn">https://lotusmedia.com.vn</a>
+  Website: <a href="https://lotusmedia.com.vn">https://lotusmedia.com.vn</a><br/>
   Email: lotusmedia.jsc@gmail.com</p>
   <strong>Xin cảm ơn</strong>
 </body></html>
